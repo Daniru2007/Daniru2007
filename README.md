@@ -23,5 +23,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniru2007&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 [![IDK](https://github-readme-stats.vercel.app/api/pin/?username=Daniru2007&repo=idk&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![IDK-rust-](https://github-readme-stats.vercel.app/api/pin/?username=Daniru2007&repo=IDK-rust&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Dot Files](https://github-readme-stats.vercel.app/api/pin/?username=Daniru2007&repo=DotFiles&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![cursor-position-detector](https://github-readme-stats.vercel.app/api/pin/?username=Daniru2007&repo=cursor-position-detector&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
