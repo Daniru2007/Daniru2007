@@ -36,7 +36,6 @@
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniru2007&theme=dracula&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </br>
-![followers](https://img.shields.io/github/followers/Daniru2007.svg?style=social&label=Follow&maxAge=2592000)
 
 [![IDK](https://github-readme-stats.vercel.app/api/pin/?username=Daniru2007&repo=idk&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![IDK-rust-](https://github-readme-stats.vercel.app/api/pin/?username=Daniru2007&repo=IDK-rust-&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
