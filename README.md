@@ -49,6 +49,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniru2007&theme=nord&langs_count=10&layout=compact&hide_border=true&border_radius=16)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Daniru2007&theme=nord&hide_border=true&border_radius=16)](https://git.io/streak-stats)
+</br>
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
 <br/>
