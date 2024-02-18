@@ -45,8 +45,6 @@
 
 [![Daniru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniru2007&show_icons=true&theme=nord&hide_border=true&border_radius=16)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Daniru2007&theme=nord&hide_border=true&border_radius=16)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniru2007&theme=nord&langs_count=10&layout=compact&hide_border=true&border_radius=16)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 
